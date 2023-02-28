@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    display: flex;
+    place-items: center;
+    min-width: 320px;
+    min-height: 100vh; 
+  }
+  .image{
+    position: relative;
+    width: 95%;
+    height: 290px;
+  }
+
+
+
+  
+  
