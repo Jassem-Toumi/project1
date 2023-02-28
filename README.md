@@ -14,6 +14,7 @@ The following **additional** features are implemented:
 - Animation: when the user hovers over the cards the latter transition upwards 
 
 ## Video Walkthrough
+Link to Video: https://imgur.com/7G70ZxB
 
 Here's a walkthrough of implemented required features:
 
